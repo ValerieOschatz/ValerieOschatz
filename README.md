@@ -20,7 +20,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Статистика
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ValerieOschatz&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ValerieOschatz&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValerieOschatz&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValerieOschatz&theme=solarized)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ValerieOschatz&theme=solarized)
+
+### Контакты
+* email: valerie.oschatz1@gmail.com  
+* telegram: @ValerieOschatz
