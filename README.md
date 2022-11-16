@@ -20,4 +20,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Статистика
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ValerieOschatz)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ValerieOschatz&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ValerieOschatz&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ValerieOschatz&theme=solarized)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ValerieOschatz&theme=solarized)
