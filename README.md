@@ -32,4 +32,4 @@
 
 ### Контакты
 * email: valerie.oschatz1@gmail.com  
-* telegram: [@ValerieOschatz](https://t.me/ValerieOschatz)
+* telegram: https://t.me/ValerieOschatz
